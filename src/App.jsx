@@ -107,6 +107,7 @@ function App() {
       setFinalScore(0),
       setCurrentQuestion(0),
       localStorage.removeItem("savedAnswers")
+      setSelectedAnswers(0)
       setLoading(false)
     }, 1000);
   }

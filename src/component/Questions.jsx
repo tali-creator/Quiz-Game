@@ -16,6 +16,7 @@ export default function Questions({
   if (!questions) {
     return 
   }
+  const questionId = questions.id || questions.index;
 
   return (
     <div className="w-full my-10 flex flex-col items-center justify-center">
@@ -37,7 +38,7 @@ export default function Questions({
                   name={`question-${questions.id}`}
                   className="cursor-pointer"
                   value={option}
-                  onClick={(e) => handleScore(e)}
+                  onClick={(e) => handleScore(e, questionId)}
                 />
                 <label
                   htmlFor={`${questions.id}-${index}`}
