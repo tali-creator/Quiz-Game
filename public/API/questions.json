@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "questionText": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Programming Unit",
+      "Computer Programming Unit"
+    ],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "id": 2,
+    "questionText": "Which of the following is NOT a programming language?",
+    "options": [
+      "Python",
+      "HTML",
+      "C++",
+      "Java"
+    ],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": 3,
+    "questionText": "What is the main function of an operating system?",
+    "options": [
+      "To compile programs",
+      "To manage computer hardware and software",
+      "To connect to the internet",
+      "To provide storage solutions"
+    ],
+    "correctAnswer": "To manage computer hardware and software"
+  },
+  {
+    "id": 4,
+    "questionText": "What does 'RAM' stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Action Memory",
+      "Ready Active Memory"
+    ],
+    "correctAnswer": "Random Access Memory"
+  },
+  {
+    "id": 5,
+    "questionText": "Which company developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "Sun Microsystems",
+      "Google",
+      "Apple"
+    ],
+    "correctAnswer": "Sun Microsystems"
+  },
+  {
+    "id": 6,
+    "questionText": "What is the binary representation of the decimal number 10?",
+    "options": [
+      "1010",
+      "1001",
+      "1100",
+      "1111"
+    ],
+    "correctAnswer": "1010"
+  },
+  {
+    "id": 7,
+    "questionText": "Which of these is a web browser?",
+    "options": [
+      "Google",
+      "Chrome",
+      "Windows",
+      "Linux"
+    ],
+    "correctAnswer": "Chrome"
+  },
+  {
+    "id": 8,
+    "questionText": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Standard Query Language",
+      "Simple Query Language",
+      "Secure Query Language"
+    ],
+    "correctAnswer": "Structured Query Language"
+  },
+  {
+    "id": 9,
+    "questionText": "Which of the following is an example of open-source software?",
+    "options": [
+      "Microsoft Office",
+      "Adobe Photoshop",
+      "Linux",
+      "Oracle"
+    ],
+    "correctAnswer": "Linux"
+  },
+  {
+    "id": 10,
+    "questionText": "What is the main purpose of a firewall?",
+    "options": [
+      "To monitor CPU usage",
+      "To protect against unauthorized access",
+      "To optimize RAM",
+      "To prevent hardware failures"
+    ],
+    "correctAnswer": "To protect against unauthorized access"
+  },
+  {
+    "id": 11,
+    "questionText": "Which type of memory is non-volatile?",
+    "options": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Registers"
+    ],
+    "correctAnswer": "ROM"
+  },
+  {
+    "id": 12,
+    "questionText": "Which company developed the C# programming language?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "IBM"
+    ],
+    "correctAnswer": "Microsoft"
+  },
+  {
+    "id": 13,
+    "questionText": "What is the time complexity of binary search in a sorted array?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "id": 14,
+    "questionText": "What is the full form of URL?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Unified Resource Locator",
+      "Uniform Registered Locator"
+    ],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "id": 15,
+    "questionText": "What is the hexadecimal equivalent of the binary number 1010?",
+    "options": [
+      "A",
+      "B",
+      "10",
+      "F"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "questionText": "What is the main function of DNS in networking?",
+    "options": [
+      "To secure the connection",
+      "To resolve domain names to IP addresses",
+      "To allocate bandwidth",
+      "To encrypt data packets"
+    ],
+    "correctAnswer": "To resolve domain names to IP addresses"
+  },
+  {
+    "id": 17,
+    "questionText": "What is the most common protocol for wireless networking?",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "Ethernet",
+      "NFC"
+    ],
+    "correctAnswer": "Wi-Fi"
+  },
+  {
+    "id": 18,
+    "questionText": "Which of the following is NOT an operating system?",
+    "options": [
+      "Linux",
+      "Windows",
+      "Android",
+      "Python"
+    ],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": 19,
+    "questionText": "What is the smallest unit of data in a computer?",
+    "options": [
+      "Bit",
+      "Byte",
+      "Kilobyte",
+      "Nibble"
+    ],
+    "correctAnswer": "Bit"
+  },
+  {
+    "id": 20,
+    "questionText": "Which company is known for developing the Linux kernel?",
+    "options": [
+      "IBM",
+      "Canonical",
+      "Red Hat",
+      "None of the above"
+    ],
+    "correctAnswer": "None of the above"
+  },
+  {
+    "id": 21,
+    "questionText": "Which of the following is an example of a relational database?",
+    "options": [
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Neo4j"
+    ],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "id": 22,
+    "questionText": "What is the purpose of an IP address?",
+    "options": [
+      "To store files",
+      "To identify a device on a network",
+      "To encrypt messages",
+      "To host websites"
+    ],
+    "correctAnswer": "To identify a device on a network"
+  },
+  {
+    "id": 23,
+    "questionText": "Which HTML tag is used to define a hyperlink?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ],
+    "correctAnswer": "<a>"
+  },
+  {
+    "id": 24,
+    "questionText": "What does GUI stand for?",
+    "options": [
+      "General User Interface",
+      "Graphical User Interface",
+      "Generic User Interaction",
+      "Graphical Utility Interface"
+    ],
+    "correctAnswer": "Graphical User Interface"
+  },
+  {
+    "id": 25,
+    "questionText": "What is a primary key in a database?",
+    "options": [
+      "A unique identifier for a record",
+      "A foreign key",
+      "An encryption key",
+      "A composite key"
+    ],
+    "correctAnswer": "A unique identifier for a record"
+  },
+  {
+    "id": 26,
+    "questionText": "Which of the following is used to style a webpage?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "correctAnswer": "CSS"
+  },
+  {
+    "id": 27,
+    "questionText": "Which protocol is used to send emails?",
+    "options": [
+      "HTTP",
+      "SMTP",
+      "FTP",
+      "IMAP"
+    ],
+    "correctAnswer": "SMTP"
+  },
+  {
+    "id": 28,
+    "questionText": "What is the purpose of a MAC address?",
+    "options": [
+      "To locate a device geographically",
+      "To identify hardware on a local network",
+      "To provide internet access",
+      "To store network configurations"
+    ],
+    "correctAnswer": "To identify hardware on a local network"
+  },
+  {
+    "id": 29,
+    "questionText": "What is the full form of HTTP?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "HyperText Transfer Program",
+      "HyperText Telecommunication Protocol"
+    ],
+    "correctAnswer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 30,
+    "questionText": "Which programming paradigm does JavaScript support?",
+    "options": [
+      "Object-oriented",
+      "Functional",
+      "Event-driven",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": 31,
+    "questionText": "What is the use of the 'cd' command in a terminal?",
+    "options": [
+      "To create a directory",
+      "To change the directory",
+      "To copy files",
+      "To delete files"
+    ],
+    "correctAnswer": "To change the directory"
+  },
+  {
+    "id": 32,
+    "questionText": "What is a class in object-oriented programming?",
+    "options": [
+      "A blueprint for creating objects",
+      "An instance of an object",
+      "A type of function",
+      "A data structure"
+    ],
+    "correctAnswer": "A blueprint for creating objects"
+  },
+  {
+    "id": 33,
+    "questionText": "What is the default port number for HTTP?",
+    "options": [
+      "21",
+      "80",
+      "443",
+      "8080"
+    ],
+    "correctAnswer": "80"
+  },
+  {
+    "id": 34,
+    "questionText": "Which of the following is a front-end JavaScript framework?",
+    "options": [
+      "Django",
+      "React",
+      "Flask",
+      "Laravel"
+    ],
+    "correctAnswer": "React"
+  },
+  {
+    "id": 35,
+    "questionText": "What is the purpose of the 'ping' command?",
+    "options": [
+      "To check connectivity to a network",
+      "To encrypt network traffic",
+      "To monitor CPU performance",
+      "To optimize network bandwidth"
+    ],
+    "correctAnswer": "To check connectivity to a network"
+  },
+  {
+    "id": 36,
+    "questionText": "Which of the following is a version control system?",
+    "options": [
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "Ansible"
+    ],
+    "correctAnswer": "Git"
+  },
+  {
+    "id": 37,
+    "questionText": "Which technology is used to create virtual machines?",
+    "options": [
+      "Docker",
+      "Hypervisor",
+      "Git",
+      "Load Balancer"
+    ],
+    "correctAnswer": "Hypervisor"
+  },
+  {
+    "id": 38,
+    "questionText": "What is the role of a compiler in programming?",
+    "options": [
+      "To execute code",
+      "To translate source code into machine code",
+      "To debug programs",
+      "To allocate memory"
+    ],
+    "correctAnswer": "To translate source code into machine code"
+  },
+  {
+    "id": 39,
+    "questionText": "Which file format is commonly used for data exchange in web applications?",
+    "options": [
+      "XML",
+      "JSON",
+      "CSV",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": 40,
+    "questionText": "What is a thread in the context of computing?",
+    "options": [
+      "A single unit of execution in a program",
+      "A type of process",
+      "A networking protocol",
+      "A type of database"
+    ],
+    "correctAnswer": "A single unit of execution in a program"
+  },
+  {
+    "id": 41,
+    "questionText": "What is the primary purpose of a load balancer?",
+    "options": [
+      "To manage memory usage",
+      "To distribute network traffic",
+      "To optimize CPU performance",
+      "To store data"
+    ],
+    "correctAnswer": "To distribute network traffic"
+  },
+  {
+    "id": 42,
+    "questionText": "Which of the following is a NoSQL database?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "correctAnswer": "MongoDB"
+  },
+  {
+    "id": 43,
+    "questionText": "What is the primary purpose of a proxy server?",
+    "options": [
+      "To cache data for faster access",
+      "To encrypt data packets",
+      "To monitor server health",
+      "To resolve domain names"
+    ],
+    "correctAnswer": "To cache data for faster access"
+  },
+  {
+    "id": 44,
+    "questionText": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Central Styling System",
+      "Custom Style Sheets",
+      "Computer Styling Sheets"
+    ],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "id": 45,
+    "questionText": "What is the purpose of a database index?",
+    "options": [
+      "To execute queries",
+      "To improve query performance",
+      "To store backup data",
+      "To manage transactions"
+    ],
+    "correctAnswer": "To improve query performance"
+  },
+  {
+    "id": 46,
+    "questionText": "Which of the following is a type of machine learning?",
+    "options": [
+      "Supervised",
+      "Unsupervised",
+      "Reinforcement",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": 47,
+    "questionText": "What is the primary function of a router in networking?",
+    "options": [
+      "To forward data packets",
+      "To manage local files",
+      "To provide IP addresses",
+      "To monitor network traffic"
+    ],
+    "correctAnswer": "To forward data packets"
+  },
+  {
+    "id": 48,
+    "questionText": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Protocol Integration",
+      "Advanced Programming Interaction",
+      "Applied Programming Infrastructure"
+    ],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "id": 49,
+    "questionText": "Which of these is an example of a dynamic programming language?",
+    "options": [
+      "Python",
+      "C",
+      "Java",
+      "Fortran"
+    ],
+    "correctAnswer": "Python"
+  },
+  {
+    "id": 50,
+    "questionText": "What is the output of the command 'ls' in a Unix-based terminal?",
+    "options": [
+      "Lists directory contents",
+      "Creates a new file",
+      "Deletes a directory",
+      "Changes the working directory"
+    ],
+    "correctAnswer": "Lists directory contents"
+  }
+]
