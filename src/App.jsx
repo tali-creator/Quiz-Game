@@ -145,6 +145,8 @@ function App() {
           <button onClick={restart} className="py-1 px-3 cursor-pointer text-white shadow-md font-black bg-blue-400 rounded-lg ">Restart</button>
         </div>)
       }
+
+      <div className="fixed w-full bottom-0 py-5 text-center flex flex-col"> <span className="font-bold">created by Tali Nanzing Moses</span> <span>&copy;copyright 2024</span> </div>
     </div>
   );
 }
