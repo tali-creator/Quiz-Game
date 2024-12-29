@@ -20,6 +20,7 @@ export default function Questions({
   return (
     <div className="w-full my-10 flex flex-col items-center justify-center">
       <h1 className="text-3xl pb-4">Question {questions.id}</h1>
+    <div className='flex-col flex '>
       <div className="border p-5 rounded-2xl space-y-5 flex-col flex items-center">
         <h2 className="font-black text-wrap text-center">
           {questions.questionText}
@@ -54,6 +55,8 @@ export default function Questions({
         handleFinish={handleFinish}
         tracker={questions.id}
       />
+      
+    </div>
     </div>
   );
 }
